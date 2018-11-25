@@ -1,7 +1,7 @@
 ; Example for invoking the SA-1 CPU
 
 snes:
-	; Set 24-bit pointer to execute SNES code.
+	; Set 24-bit pointer to execute SA-1 code.
 	LDA.b #code
 	STA $3180
 	LDA.b #code>>8
