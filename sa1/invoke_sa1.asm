@@ -2,11 +2,11 @@
 
 snes:
 	; Set 24-bit pointer to execute SA-1 code.
-	LDA.b #code
+	LDA.b #sa1_code
 	STA $3180
-	LDA.b #code>>8
+	LDA.b #sa1_code>>8
 	STA $3181
-	LDA.b #code>>16
+	LDA.b #sa1_code>>16
 	STA $3182
 	
 	; Call and wait for the SA-1 CPU.
