@@ -35,6 +35,7 @@ Sprites (SP3):|		`$7000 - $77FF`|		4bpp
 Sprites (SP4):|		`$7800 - $7FFF`|		4bpp
 
 
+
 ### OVERWORLD AND CREDITS [AND ORIGINAL SMW LEVELS]
 
 |    Thing	| 	 VRAM Address		| Specifications
@@ -60,6 +61,8 @@ Sprites (SP3):|		`$7000 - $77FF`|		4bpp
 Sprites (SP4):|		`$7800 - $7FFF`|		4bpp
 
 
+
+
 ### BOSS BATTLES
 
 |    Thing	| 	 VRAM Address		| Specifications
@@ -77,3 +80,4 @@ Sprites (SP1):|		`$6000 - $67FF`|		4bpp
 Sprites (SP2):|		`$6800 - $6FFF`|		4bpp
 Sprites (SP3):|		`$7000 - $77FF`|		4bpp
 Sprites (SP4):|		`$7800 - $7FFF`|		4bpp
+
