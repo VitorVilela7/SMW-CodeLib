@@ -14,7 +14,7 @@ Copy of file B: `$70:023C`-`$70:02CA`
 Copy of file C: `$70:02CB`-`$70:0359`
 
 Address|Size|Mirrors|Type|Quick Description
--:|:-:|:-:|:-:|:-:|:-
+------:|:--:|:-----:|:--:|:-----------------
 `$70:0000`|96 bytes|`$7E:1EA2`|MARIO A|Overworld level setting flags.
 `$70:0060`|15 bytes|`$7E:1F02`|MARIO A|Overworld event flags, bitwise.
 `$70:006F`|1 byte|`$7E:1F11`|MARIO A|Current submap for Mario.
