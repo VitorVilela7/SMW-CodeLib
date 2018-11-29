@@ -5,6 +5,9 @@ Feel free to contribute at will! The more, the better. Learn more at [CONTRIBUTI
 
 # ASM Code
 
+## Blocks
+- [Custom block template for GPS](asm/blocks/template.asm) by Alcaro
+
 ## Graphics
 - [Decompress GFX file](asm/gfx/decomp.asm) by Vitor Vilela
 - [Decode SNES planar format to bitmap](asm/gfx/snes_graphics.asm) by Vitor Vilela
