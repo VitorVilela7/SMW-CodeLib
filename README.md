@@ -12,6 +12,9 @@ Feel free to contribute at will! The more, the better. Learn more at [CONTRIBUTI
 - [Decompress GFX file](asm/gfx/decomp.asm) by Vitor Vilela
 - [Decode SNES planar format to bitmap](asm/gfx/snes_graphics.asm) by Vitor Vilela
 
+## DMA
+- [VRAM/CGRAM/WRAM read/write macros](asm/dma/macros.asm) by Ladida
+
 ## Map16
 
 - [Get acts like from map16 number](asm/map16/get_act_like.asm) by Vitor Vilela
