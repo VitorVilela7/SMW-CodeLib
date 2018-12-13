@@ -27,9 +27,9 @@ by Alcaro
 15 | Fade to Game Over / Time Up
 16 | Load Game Over / Time Up
 17 | Game Over / Time Up
-18 | Load Credits/Cutscene?
-19 | Load Credits/Cutscene?
-1A | Load Credits/Cutscene?
+18 | Fade Out before loading Credits / Cutscene
+19 | Load Credits / Cutscene
+1A | Fade In to Credits / Cutscene
 1B | Ending: Credits / Cutscene
 1C | Ending: Fade to Yoshi's House
 1D | Ending: Load Yoshi's House
