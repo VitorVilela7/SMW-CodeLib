@@ -67,6 +67,9 @@ Algorithms and codes for scripting and SMW tools designing.
 # Docs
 Diagrams, references, datasheets, maps, etc.
 
+## Lists
+ - [Game modes](docs/GM.md) by Alcaro
+
 ## Maps
 - [SRAM](docs/SRAM.md) by Lui37
 - [VRAM](docs/VRAM.md) by Ladida
